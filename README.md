@@ -4,5 +4,4 @@ sample repository
 *italic*
 **bold**
 * 1
-* 3
 * 2
